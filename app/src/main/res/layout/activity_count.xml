@@ -7,7 +7,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:padding="24dp"
-    tools:context=".presentation.main.MainActivity">
+    tools:context=".presentation.count.CountActivity">
 
     <TextView
         android:id="@+id/tvCount"
